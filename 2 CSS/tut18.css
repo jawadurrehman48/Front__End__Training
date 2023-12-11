@@ -1,0 +1,12 @@
+/* color by name */
+#firstpara{
+    color: orange
+ }
+ /* color by number */
+ #secondpara{
+color:rgb(227, 105, 125)
+ }
+ /* color by hex number */
+#thirdpara{
+color: #6d7eff
+}  

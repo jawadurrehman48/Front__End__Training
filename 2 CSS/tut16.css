@@ -1,0 +1,21 @@
+p{
+    color: purple;
+    font-style: italic;
+    background-color: green;
+}
+#element2{
+    background-color: yellow;
+    font-style: unset;
+    font-size: xx-large;
+    
+}
+#element12{
+    background-color: blue;
+    color: yellow;
+
+}
+#element112{
+    background-color: black;
+    color: yellow;
+    font-size: x-small;
+}
